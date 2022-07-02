@@ -1,0 +1,47 @@
+﻿kh00-31-07-2021-10-12-01	nv02	kh00	Khách Hàng 	sp01	1	Sữa hộp Vinamilk	200000.0	200000.0	25-07-2021
+kh00-31-07-2021-10-12-01	nv02	kh00	Khách Hàng 	sp02	1	Xúc Xích Đức Việt	35000.0	35000.0	25-07-2021
+kh01-31-07-2021-10-12-39	nv02	kh01	Trần Trung Kiên	sp07	1	Khô gà lá chanh	139000.0	139000.0	26-07-2021
+kh01-31-07-2021-10-12-39	nv02	kh01	Trần Trung Kiên	sp09	1	NƯỚC KHOÁNG LA VIE BÌNH ÚP 19L	63000.0	63000.0	26-07-2021
+kh01-31-07-2021-10-12-39	nv02	kh01	Trần Trung Kiên	sp16	1	Bút bi nước	10000.0	10000.0	26-07-2021
+kh01-31-07-2021-10-12-39	nv02	kh01	Trần Trung Kiên	sp18	1	Son Black Rouge A12	245000.0	245000.0	27-07-2021
+kh01-31-07-2021-10-13-34	admin	kh01	Trần Trung Kiên	sp03	1	Sữa chua nếp cẩm	170000.0	170000.0	27-07-2021
+kh01-31-07-2021-10-13-34	admin	kh01	Trần Trung Kiên	sp05	2	Mật Ngô(Nước Đường Bắp)	78000.0	156000.0	28-07-2021
+kh01-31-07-2021-10-13-34	admin	kh01	Trần Trung Kiên	sp08	1	Dầu gội Pantene(380g)	79000.0	79000.0	28-07-2021
+kh01-31-07-2021-10-13-34	admin	kh01	Trần Trung Kiên	sp09	1	NƯỚC KHOÁNG LA VIE BÌNH ÚP 19L	63000.0	63000.0	28-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp01	1	Sữa hộp Vinamilk	200000.0	200000.0	28-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp05	2	Mật Ngô(Nước Đường Bắp)	78000.0	156000.0	28-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp07	2	Khô gà lá chanh	139000.0	278000.0	29-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp10	1	Lavie sparlking chanh bạc hà	210000.0	210000.0	29-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp18	1	Son Black Rouge A12	245000.0	245000.0	29-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp19	1	Bút kẻ mắt trang điểm	70000.0	70000.0	29-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp20	1	Khẩu trang Adidas Originals	68000.0	68000.0	30-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp21	1	Nước lọc	9000.0	9000.0	30-07-2021
+kh04-31-07-2021-10-14-26	nv03	kh04	Nguyễn Văn Minh	sp16	1	Bút bi nước	10000.0	10000.0	30-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp01	3	Sữa hộp Vinamilk	200000.0	600000.0	30-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp02	1	Xúc Xích Đức Việt	35000.0	35000.0	30-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp06	3	Mù Tạt Wasabi Nhật Bản	63000.0	189000.0	30-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp13	1	Khăn tắm	138000.0	138000.0	31-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp14	1	Hộp đựng thực phẩm 2 lớp của SHIMOYAMA	239000.0	239000.0	31-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp15	1	ĐÁNH RĂNG 120G MEDIAN 93% HÀN QUỐC	35000.0	35000.0	31-07-2021
+kh07-31-07-2021-10-15-14	nv05	kh07	Đinh Vũ Hoài 	sp16	1	Bút bi nước	10000.0	10000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	﻿sp00	1	Cafe Trung Nguên	20000.0	20000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	sp01	1	Sữa hộp Vinamilk	200000.0	200000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	sp02	1	Xúc Xích Đức Việt	35000.0	35000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	sp03	1	Sữa chua nếp cẩm	170000.0	170000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	sp04	1	Bột ngọt Ajinomoto(1kg)	35000.0	35000.0	31-07-2021
+kh06-31-07-2021-10-15-52	nv04	kh06	Nguyễn Thị Linh	sp05	1	Mật Ngô(Nước Đường Bắp)	78000.0	78000.0	31-07-2021
+kh02-03-08-2021-08-16-34	admin	kh02	Trần Thị Giáng Hương	sp06	1	Mù Tạt Wasabi Nhật Bản	63000.0	63000.0	03-08-2021
+kh02-03-08-2021-08-17-09	nv03	kh02	Trần Thị Giáng Hương	sp09	1	NƯỚC KHOÁNG LA VIE BÌNH ÚP 19L	63000.0	63000.0	03-08-2021
+kh02-03-08-2021-08-17-09	nv03	kh02	Trần Thị Giáng Hương	sp02	1	Xúc Xích Đức Việt	35000.0	35000.0	03-08-2021
+kh09-03-08-2021-08-19-04	nv05	kh09	Lê Văn A	sp04	1	Bột ngọt Ajinomoto(1kg)	35000.0	35000.0	03-08-2021
+kh09-03-08-2021-08-19-04	nv05	kh09	Lê Văn A	sp05	1	Mật Ngô(Nước Đường Bắp)	78000.0	78000.0	03-08-2021
+kh09-03-08-2021-08-19-04	nv05	kh09	Lê Văn A	sp08	1	Dầu gội Pantene(380g)	79000.0	79000.0	03-08-2021
+kh08-03-08-2021-08-21-39	nv06	kh08	Lê Văn B	sp05	1	Mật Ngô(Nước Đường Bắp)	78000.0	78000.0	03-08-2021
+kh08-03-08-2021-08-21-39	nv06	kh08	Lê Văn B	sp08	1	Dầu gội Pantene(380g)	79000.0	79000.0	03-08-2021
+kh08-03-08-2021-08-21-39	nv06	kh08	Lê Văn B	sp20	1	Khẩu trang Adidas Originals	68000.0	68000.0	03-08-2021
+kh10-03-08-2021-08-40-55	admin	kh10	Lê Văn C	sp19	1	Bút kẻ mắt trang điểm	70000.0	70000.0	03-08-2021
+kh10-03-08-2021-08-40-55	admin	kh10	Lê Văn C	sp16	1	Bút bi nước	10000.0	10000.0	03-08-2021
+kh06-03-08-2021-08-42-06	nv09	kh06	Nguyễn Thị Linh	sp19	1	Bút kẻ mắt trang điểm	70000.0	70000.0	03-08-2021
+kh06-03-08-2021-11-23-20	nv09	kh06	Nguyễn Thị Linh	sp08	1	Dầu gội Pantene(380g)	79000.0	79000.0	03-08-2021
+kh04-03-08-2021-11-24-04	nv09	kh04	Nguyễn Văn Minh	sp03	1	Sữa chua nếp cẩm	170000.0	170000.0	03-08-2021
+kh01-04-08-2021-11-08-00	admin	kh01	Trần Trung Kiên	sp03	1	Sữa chua nếp cẩm	170000.0	170000.0	04-08-2021

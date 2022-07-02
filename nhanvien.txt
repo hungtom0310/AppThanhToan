@@ -1,0 +1,12 @@
+nv02	Nguyễn Thị Hồng	0923897335	nthong@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1
+nv03	Ngô Thị Vân	0987896384	vann@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nữ	1
+nv04	Nguyễn Viết Phúc	0983686578	phuc@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1
+nv05	Nguyễn Hải Nam	0982368583	hainam@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1
+nv06	Nguyễn Văn Quyết	0962387622	vanquyet@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1
+nv07	Nguyễn Quỳnh Dung	0987623893	ngdung@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nữ	1
+nv09	Nguyễn Văn A	0987654321	vana@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1
+nv10	Lê Văn A	0987654321	a@gmail.com	c4ca4238a0b923820dcc509a6f75849b	0	Nam	1
+admin	ad	0987654321	ad@gmail.com	202cb962ac59075b964b07152d234b70	1	Nam	1
+admin1	ad	0987654321	ad@gmail.com	202cb962ac59075b964b07152d234b70	1	Nam	1
+nv01	Lê Văn B	0987123456	b@gmail.com	e10adc3949ba59abbe56e057f20f883e	1	Nam	0
+nv11	Nguyễn Văn Phúc	0918487151	phuc@gmail.com	e10adc3949ba59abbe56e057f20f883e	0	Nam	1

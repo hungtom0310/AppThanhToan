@@ -1,0 +1,11 @@
+kh00	Khách Hàng 	0000000000	hungtom0310@gmail.com	Siêu thi mini	Nam	1
+kh01	Trần Trung Kiên	0987567452	trungkien@gmail.com	Tổ 16 - Thạch Bàn - Long Biên - HN	Nam	1
+kh02	Trần Thị Giáng Hương	0978623874	tranhuong@gmail.com	Huyện Văn Lâm - Hưng Yên 	Nữ	1
+kh03	Đỗ Thị Quỳnh 	0928366487	doquynh@gmail.com	H. Kim Động - Hưng Yên 	Nữ	1
+kh04	Nguyễn Văn Minh	0927639165	vanminh@gmail.com	H. Việt Yên - Bắc Giang 	Nam	1
+kh05	Đoàn Thị Hải 	0923975089	hai@gmail.com	H.Kiến Xương - Thái Bình 	Nữ	1
+kh06	Nguyễn Thị Linh	0939290132	nglinh@gmail.com	Lai Châu 	Nữ	1
+kh07	Đinh Vũ Hoài 	0923879632	vuhoai@gmail.com	Thị xã Sơn Tây - Hà Nội 	Nam	1
+kh08	Lê Văn B	0918716138	a@gmail.com	Hà Nội	Nam	1
+kh09	Lê Văn A	0987654321	a@gmail.com	Hà Nội	Nam	1
+kh10	Lê Văn C	0916148681	c@gmail.com	Hà Nam	Nam	1

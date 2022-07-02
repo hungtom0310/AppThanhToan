@@ -1,0 +1,23 @@
+﻿sp00	Cafe Trung Nguên	hộp	Trung Nguyên	15000	20000	89
+sp01	Sữa hộp Vinamilk	thùng	Vinamilk	160000	200000	5
+sp02	Xúc Xích Đức Việt	gói	CTCP Thực Phẩm Đức Việt	28000	35000	51
+sp03	Sữa chua nếp cẩm	thùng	Mộc Châu	130000	170000	39
+sp04	Bột ngọt Ajinomoto(1kg)	gói	CTCP Acecook Việt Nam	27000	35000	27
+sp05	Mật Ngô(Nước Đường Bắp)	chai	Daesang Hàn Quốc	65000	78000	87
+sp06	Mù Tạt Wasabi Nhật Bản	hộp	OEM	50000	63000	35
+sp07	Khô gà lá chanh	Gói	TETE	110000	139000	82
+sp08	Dầu gội Pantene(380g)	chai	P&G	63000	79000	70
+sp09	NƯỚC KHOÁNG LA VIE BÌNH ÚP 19L	bình	Nestle Waters	50000	63000	33
+sp10	Lavie sparlking chanh bạc hà	thùng	N	189000	210000	41
+sp11	Nước giặt chống lão hóa vải Comfort	túi	Comfort 	139000	168000	100
+sp12	Khăn ướt Bobby NANO	túi	Bobby	30000	41000	120
+sp13	Khăn tắm	chiếc	JYSK	109000	138000	98
+sp14	Hộp đựng thực phẩm 2 lớp của SHIMOYAMA	set	 NEMI	190000	239000	49
+sp15	ĐÁNH RĂNG 120G MEDIAN 93% HÀN QUỐC	hộp	MEDIAN	27000	35000	99
+sp16	Bút bi nước	cái	Thiên Long	4000	10000	146
+sp17	on kem Focallure Màu Nhung Sương Lì Mịn 16g	thỏi	Focallure	200000	260000	100
+sp18	Son Black Rouge A12	thỏi	Black Rouge	199000	245000	93
+sp19	Bút kẻ mắt trang điểm	Chiếc	FOCALLURE	59000	70000	73
+sp20	Khẩu trang Adidas Originals	chiếc	Unisex	49000	68000	148
+sp21	Nước lọc	chai	aqua	5000	9000	49
+sp22	Sữa chua	vỉ	Vinamilk	20000	30000	20
